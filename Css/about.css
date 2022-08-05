@@ -37,18 +37,18 @@
     }
 
     .left img{
-        margin-left: 10%;
-        margin-right: 10%;
+        margin-left: 37%;
+        margin-right: 37%;
         margin-top:10px;
-        width: 80%;
-        height: 300px;  
+        width: 25%;
+        height: 250px;  
         align-items: center;
         }
 
     .left p {
         text-align: center;
         padding: 1em;
-        font-size: xx-large;
+        font-size: x-large;
         margin-top: 0%;
         font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
         font-style: bold;
@@ -123,8 +123,6 @@
         padding: 1em;
         font-size: xx-large;
         font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
-        
-
     }
 
     footer img{
