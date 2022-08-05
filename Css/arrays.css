@@ -37,22 +37,29 @@
     }
 
     .left img{
-        margin-left: 10%;
-        margin-right: 10%;
+        margin-left: 25%;
+        margin-right: 25%;
         margin-top:10px;
-        width: 80%;
-        height: 300px;  
+        width: 50%;
+        height: 120px;  
         align-items: center;
         }
 
     .left p {
         text-align: center;
-        padding: 1em;
         font-size: xx-large;
         margin-top: 0%;
         font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
         font-style: bold;
 
+    }
+    .left li{
+        margin-left:40px;
+        text-align: left;
+        font-size: x-large;
+        margin-top: 0%;
+        font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+        font-style: bold;
     }
 
     aside{
@@ -97,11 +104,7 @@
         box-shadow: 0.40em 0.40em 0.70em black;
     }
 
-    .left li{
     
-        color: aqua;
-    }
-
 
      section,aside, footer {
         margin-top: 1em;
