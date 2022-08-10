@@ -33,7 +33,13 @@ font-size: 22px;
         height: 160px;
         width: 70%;
     }
-    
+    #aboutimg
+    {
+    height: 200px;
+    width: 70%;
+    margin-left: 15%;
+
+    }
     #searchP , #strP 
     {
         margin-top: 3%;
