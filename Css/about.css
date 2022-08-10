@@ -19,11 +19,7 @@
     }
 
     nav{
-        border-top: 2px;
-        border-bottom: 2px;
-        border-color: rgb(60, 60, 60);
-        border-width: 2 px;
-        border-style: solid;
+        
         font-size: larger;
         background-color: Coral;
         text-align: left;
@@ -36,12 +32,12 @@
 
     .left{
 
-        border-radius: 1em;
+       
         height: 490px;
         float: left;
         background-color: Salmon;
         width: 69%;
-        border-right: solid;
+        
     }
 
     .left img{
@@ -65,12 +61,12 @@
 
     aside{
         text-align:center;
-        border-radius: 1em;
+      
         float: left;
         height: 490px;
         width: 30%;
         background-color: LightSalmon;
-        border-left: solid;
+       
     }
     aside li{
         text-align:  start;
@@ -137,4 +133,6 @@
         width: 20px;
         height: 20px;
     }
-   
+    a{
+        cursor: pointer;
+       }
