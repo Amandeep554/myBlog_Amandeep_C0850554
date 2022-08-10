@@ -12,31 +12,32 @@
     float: right;
     width: 40%;
     }
-    #numtxt
+    #numP
     {
-        font-size: large;
-        text-align: center;
+        font-size:      large;
+        
     }
     #litem{
         font-size: large;
         text-align: left;
+        margin-top: 5%;
      }
     #code{
 font-size: 22px;
     }
 
-    #strid{
-        margin-top: 20px;
-        font-size: large;
-    }
-    #stringimg, #searchimg
+    
+    #stringimg, #searchimg, #numimg
     {
+        margin-top: 30px;
         height: 160px;
+        width: 70%;
     }
     
-    #searchP
+    #searchP , #strP 
     {
-        font-size: larger;
+        margin-top: 3%;
+        font-size: x-large;
     }
 
 }
