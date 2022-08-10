@@ -3,14 +3,14 @@
 
     #Primary
     {
-  float: left;
-  width: 60%;
+   float: left;
+   width: 60%;
     }
 
     #Secondary
     {
-float: right;
-width: 40%;
+    float: right;
+    width: 40%;
     }
     #numtxt
     {
@@ -18,11 +18,25 @@ width: 40%;
         text-align: center;
     }
     #litem{
-        font-size: medium;
+        font-size: large;
         text-align: left;
      }
     #code{
 font-size: 22px;
+    }
+
+    #strid{
+        margin-top: 20px;
+        font-size: large;
+    }
+    #stringimg, #searchimg
+    {
+        height: 160px;
+    }
+    
+    #searchP
+    {
+        font-size: larger;
     }
 
 }
