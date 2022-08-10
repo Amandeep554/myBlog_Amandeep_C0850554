@@ -6,7 +6,6 @@
    float: left;
    width: 60%;
     }
-
     #Secondary
     {
     float: right;
@@ -14,19 +13,15 @@
     }
     #numP
     {
-        font-size:large;
-        
+        font-size:large;   
     }
     #litem{
         font-size: large;
         text-align: left;
-        margin-top: 5%;
      }
     #code{
-font-size: 22px;
+    font-size: 22px;
     }
-
-    
     #stringimg, #searchimg, #numimg, #arrayimg
     {
         margin-top: 30px;
@@ -38,7 +33,6 @@ font-size: 22px;
     height: 200px;
     width: 70%;
     margin-left: 15%;
-
     }
     #searchP , #strP 
     {
@@ -47,7 +41,32 @@ font-size: 22px;
     }
 
 }
-@media screen and (min-width:660px) {
+@media screen and (min-width:680px) and (max-width:800px) {
     
+    #Primary
+    {
+   float: left;
+   width: 70%;
+    }
+    #Secondary
+    {
+    float: right;
+    width: 30%;
+    }
+   
+    #aboutimg
+    {
+    height: 300px;
+    width: 70%;
+    margin-left: 15%;
+    }
 
+    #litem{
+        font-size: large;
+        text-align: left;
+}
+#numP
+{
+    font-size:large;   
+}
 }
