@@ -1,0 +1,32 @@
+@media  screen and (min-width:480px) and (max-width:500px) {
+    
+
+    #Primary
+    {
+  float: left;
+  width: 60%;
+    }
+
+    #Secondary
+    {
+float: right;
+width: 40%;
+    }
+    #numtxt
+    {
+        font-size: large;
+        text-align: center;
+    }
+    #litem{
+        font-size: medium;
+        text-align: left;
+     }
+    #code{
+font-size: 22px;
+    }
+
+}
+@media screen and (min-width:660px) {
+    
+
+}

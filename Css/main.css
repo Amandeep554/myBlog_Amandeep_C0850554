@@ -155,3 +155,8 @@
    a{
     cursor: pointer;
    }
+   #code
+   {
+    padding:1em; 
+    font-size: xx-large;    
+   }
